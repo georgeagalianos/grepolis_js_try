@@ -1,0 +1,20 @@
+document.getElementsByClassName('gp_town_link') #list me oles tis kinhseis
+
+document.getElementsByClassName('odd') 
+
+document.getElementsByClassName('command')
+
+document.getElementsByClassName('cmd_span') #pairnw kai tis 2 poleis
+
+
+
+
+
+var name = document.getElementsByClassName('color_highlight')[0]
+var spans = name.getElementsByClassName
+
+
+1) document.getElementById('command_overview').innerText tsekarw an : "Δεν υπάρχουν τώρα κινήσεις του στρατεύματος."
+2) document.getElementById('command_overview').childNodes
+3) p[0].id tsekarw an to id startwith command
+4) p[1].dataset.command_type  tsekarw an einai attack
