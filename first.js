@@ -6,8 +6,7 @@
 
 //const webhookClient = new WebhookClient({ url: 'https://discord.com/api/webhooks/1051540143682617384/ANPm4CRayHwmQv9dW5H-xKQLaapnkZnTpnxnDBSn253H5Lo56XXLSO0U75wP9BhRBa9e' });
 
-document.querySelector('#tab_all')
-
+console.log(document.querySelector('#tab_all'));
 // const embed = new EmbedBuilder()
 // 	.setTitle('Some Title')
 // 	.setColor(0x00FFFF);
